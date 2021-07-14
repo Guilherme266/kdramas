@@ -40,7 +40,7 @@ body {
 }
 
 .row {
-  color: white;
+  color: black;
   margin-left: 20px;
 }
 
@@ -128,5 +128,5 @@ body {
 }
 
 .nav__black {
-  background-color: #111;
+  background-color: #000000;
 }
